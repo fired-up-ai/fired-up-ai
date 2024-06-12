@@ -1,0 +1,25 @@
+{
+  "name": "firebase-core",
+  "version": "0.1.0",
+  "description": "Core implementation of shared firebase services and utils",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fired-up-ai/fired-up-ai.git"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "sukrut sathaye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fired-up-ai/fired-up-ai/issues"
+  },
+  "homepage": "https://github.com/fired-up-ai/fired-up-ai#readme",
+  "dependencies": {
+    "firebase": "^10.12.2"
+  }
+}
